@@ -8,6 +8,7 @@ Untuk nama sistem operasi remaster yang kami buat untuk project ini adalah  GPRO
 Tema remaster linux yang kami buat adalah gaming. Tema gaming memberikan daya tarik visual yang tinggi karena tema remaster gaming seringkali menampilkan grafis dan elemen visual yang menarik sehingga penggemar game mungkin tertarik untuk memilih remaster ini karena dapat memberikan tampilan yang modern, estetis, dan atraktif.
 
 Berikut contoh tampilan dalam GPROS
+
 <img width="637" alt="tampilan dokumen" src="https://github.com/andikamahend/Remastered-Ubuntu-Gpros/assets/156983422/c064ac53-a37d-4036-a18f-4dc608a804b6">
 <img width="396" alt="Tampilan booting" src="https://github.com/andikamahend/Remastered-Ubuntu-Gpros/assets/156983422/cf7769f9-1779-4a54-a744-2bd0bd213c31">
 <img width="639" alt="SS tampilan terminal" src="https://github.com/andikamahend/Remastered-Ubuntu-Gpros/assets/156983422/4b911b7b-39e3-4962-b44d-4f98c9eb463b">
