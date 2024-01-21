@@ -14,5 +14,7 @@ Berikut contoh tampilan dalam GPROS
 <img width="639" alt="SS tampilan terminal" src="https://github.com/andikamahend/Remastered-Ubuntu-Gpros/assets/156983422/4b911b7b-39e3-4962-b44d-4f98c9eb463b">
 <img width="638" alt="ss tampilan settings" src="https://github.com/andikamahend/Remastered-Ubuntu-Gpros/assets/156983422/00782ed4-ad62-4adc-be33-fc9e600bb8fb">
 <img width="641" alt="ss tampilan frequent" src="https://github.com/andikamahend/Remastered-Ubuntu-Gpros/assets/156983422/3ad73068-ad56-45d6-9397-379d00f5d5cf">
+
 ![ss tampilan beranda](https://github.com/andikamahend/Remastered-Ubuntu-Gpros/assets/156983422/ba2d083f-2a9f-4177-b0cc-86c9943bdd36)
+
 <img width="396" alt="Tampilan user" src="https://github.com/andikamahend/Remastered-Ubuntu-Gpros/assets/156983422/e8a9be38-1a8f-4eab-91de-d416da88ac9d">
